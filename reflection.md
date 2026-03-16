@@ -31,15 +31,15 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ## 4. What did you learn about Streamlit and state?
 
-- In your own words, explain why the secret number kept changing in the original app.
-- How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
-- What change did you make that finally gave the game a stable secret number?
+- In your own words, explain why the secret number kept changing in the original app.' I dont think I noticed this'
+- How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit? reruns clears a sessions state for you to be able to test and run the app in realtime so you can see your changes visually as you code
+- What change did you make that finally gave the game a stable secret number?  Make sure it only exists if it doesnt in the state and it can only change by hitting new game
 
 ---
 
 ## 5. Looking ahead: your developer habits
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
-  - This could be a testing habit, a prompting strategy, or a way you used Git.
-- What is one thing you would do differently next time you work with AI on a coding task?
-- In one or two sentences, describe how this project changed the way you think about AI generated code.
+  - This could be a testing habit, a prompting strategy, or a way you used Git. Delving deeper into conversations until I am sure of a proposed change
+- What is one thing you would do differently next time you work with AI on a coding task? Try to be less relliant on tests
+- In one or two sentences, describe how this project changed the way you think about AI generated code. This project shows AI is nothing more than a tool that has to be used responsibly just like anything else or it is useless. Its speciallty is not necesarly on intelligence in this stag of its development bur rather the speed of accessing information.

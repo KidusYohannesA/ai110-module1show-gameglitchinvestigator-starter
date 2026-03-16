@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [ The purpose is to try guess a random number in under a certin amount of attempts ideally on the first] Describe the game's purpose.
+- [Inverted hints, easy attempt limit, new game did not reset] Detail which bugs you found.
+- [ Inverted hints, modify ranges, updated conditions for a new game] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+![Demo](Screenshot%202026-03-16%20at%205.45.06%20PM.png)
 
 ## 🚀 Stretch Features
 
